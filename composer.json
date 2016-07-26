@@ -1,0 +1,19 @@
+{
+    "name": "hoanghiep/category",
+    "description": "category ecomment",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hoanghiep",
+            "email": "hoanghiep@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+     "autoload": {
+        "classmap": [
+            "database"
+        ],
+          "files": ["hoanghiep/category.php"]
+    },
+}
